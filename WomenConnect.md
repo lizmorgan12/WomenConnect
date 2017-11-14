@@ -113,7 +113,7 @@ WomenConnect Facilitators should meet the following criteria:
 - Facilitators should be a mix of men and women with women always making up more than half of the total number of facilitators
 
 ---
-### WomenConnect Facilitators should meet the following criteria (continued):
+### WomenConnect Facilitators should meet the following criteria:
 - Always pair a male facilitator with a female facilitator, or put a female facilitator on her own to lead a table provided she’s in a senior role and/or has previous WomenConnect experience. 
 
 - If this is not possible, the most senior male facilitators may lead a table on their own
