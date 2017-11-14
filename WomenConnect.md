@@ -55,7 +55,6 @@ Length of event (including check in of attendees): 3 hours
 - Table Discussion Sharing and Wrap Up - 30 minutes
 - Networking (until close) - 30 minutes
 
----
 #### Total Headcount goal: 120 external attendees, 25 internal employees (i.e. 20 WomenConnect facilitators, 5 event volunteers)
 
 ---
@@ -69,8 +68,6 @@ Length of event (including check in of attendees): 3 hours
 - Keynote Speaker is a mid to senior level engineering leader. This person is a representative of your company's commitment to hiring and developing a diverse and inclusive work culture
 - Keynotes Speakers often talk about their personal stories related to inclusion, career transformation, overcoming personal or professional obstacles, or providing overviews of a product or initiative that was built by a diverse team.
 
----
-
 #### Dinner and Table Discussions - 1 hour
 
 - WomenConnect Speakers and Facilitators will sit 2 to a table, with 8-10 external attendees. Women Connect Facilitators are responsible for driving and facilitating  table discussions, which will allow them to hear first-hand some of the successes and obstacles attendees  encounter in the workplace. This is a critical role in the event’s success. All facilitators will receive questions and prompts to help keep the conversation flowing and keep all attendees included and engaged in dialogue. One of the facilitators should take notes throughout the discussion in preparation to share best practices or key points with the broader group at the end of the evening.
@@ -79,9 +76,7 @@ Length of event (including check in of attendees): 3 hours
 
 - A WomenConnect host, speaker or facilitator will ask each table to take a turn and share key points and best practices from their table discussions  with the broader group. 
 
----
-
-### Networking (until close) - 30 minutes
+#### Networking (until close) - 30 minutes
 
 - WomenConnect saves the best for last - networking! After the attendees have had a chance to meet and create rapport with each other, the networking portion of the event is scheduled towards the end - so attendees have a chance to continue the conversation
 
@@ -97,7 +92,7 @@ WomenConnect Facilitators will sit two to a table with 8-10 event attendees and 
 
 ---
 
-Key best practices for successful facilitation:
+### Key best practices for successful facilitation:
 
 - Kick off the table discussion with assurance that this is a safe place for discussion
 - Have each person introduce themselves, their position/team & length of time at their current employer
@@ -137,8 +132,6 @@ Below is a sample of questions that can be used as facilitator discussion topics
 
 - How have you grown/developed your leadership skills? What advice do you have for others around the table looking to develop their leadership skills?
 
----
-### WomenConnect Facilitator Discussion Topics (continued)
 - What is an example of a time when you failed? What did you take away from it?
 
 - Do you have a professional “aha” moment? What made it so special? What did you learn and what changes did you make, if any?
@@ -147,13 +140,9 @@ Below is a sample of questions that can be used as facilitator discussion topics
 
 - How do you balance work and home life? Do you have tips or advice to share on setting boundaries or expectations with others?
 
----
-### WomenConnect Facilitator Discussion Topics (continued)
-
 - What techniques or tips do you have in building out your strategic network and relationships? How do you nurture and leverage them?
 
 - Who are the people in your life that have inspired you? What skills and behaviors do they have and how might you learn from them?
-
 
 ---
 
@@ -164,8 +153,6 @@ Recruiting responsibilities are to identify potential attendees for your event p
 - LinkedIn
 - Employee recommendations
 - Internet research
-
----
 
 #### Recruiting
 Although the event is not recruiting focused, by default you will have attendees interested in finding out about job opportunities from the company sponsoring the event. Your recruiting partner(s) should attend the event as a volunteer. The event host should recognize the recruiters presence by highlighting this person as a resource to answer questions about job opportunities.
@@ -217,9 +204,6 @@ WomenConnect Host, Event Program Manager and Project Manager write invitation ve
 
 After your invitation is created, please request the list of potential attendees and contact information from your TA partner. 
 
----
-### Event Invitation (continued)
-
 Invitations should be sent out 4 weeks prior to the event. 
 
 Invitation reminder schedule:
@@ -234,27 +218,14 @@ Allow for at least 30% over maximum capacity for attendee RSVP’s as you will h
 - **Name Tags.** Prepare each name tag with the names of the WomenConnect attendees in one color and the names of the facilitators/speakers/volunteers in a different color. You could also add your company logo to the name tags for employee attendees. Print a few extra blank tags of each color in case any guests or facilitators join the day of the event. Print and tear the name tags, place into the casing, and bring them to the venue day of to be setup on the check-in table.
 - **Event Backdrop Slide.** Create a backdrop slide to be projected in the background for the duration of the event.
 
----
-### Planning Logistics (continued)
 - **Calendar Invites (speakers and facilitators only).** As soon as the speakers and facilitators have been selected, send them a calendar invite with the location and specific time you need them to arrive. Speakers will have their own invitation while the facilitators can be grouped together in a single invite. Please ask host, speakers, and facilitators to arrive 1 hour early. Monitor the responses to be sure everyone has confirmed.
 - **Event Signage.** Create event sign(s) to direct your attendees to your venue the day of the event.
 
----
-
-### Planning Logistics (continued)
 - **Check-in attendee template.** Create a spreadsheet to check in your attendees the day of the event. Your check-in data should include name, email and company affiliation. In addition to receiving a name tag, the event check in volunteer will also let the attendee know which table they will be seated at for dinner. Lastly, you also have the option of requesting if they are interested in hearing about job opportunities upon checking in.
-
-
----
-### Planning Logistics (continued)
 
 - **Facilitator Table Arrangement.** Facilitators will sit two per each table. Try to seat facilitators at tables and with attendees that will correspond to their profession or technical background (i.e. the mobile, infrastructure, test, “Product table,” an “Engineering Table, etc.). With last-minute drop-offs, this likely won’t work out perfectly, so just do the best you can.
 
 - **Host, Speakers and Facilitator Reminder Email.** Two days before the event, send the host, speakers and facilitators a reminder email (template) about their role, responsibilities and inform them of their table pairs. 
-
----
-
-### Planning Logistics (continued)
 
 - **Print Facilitator Discussion Cards.** Print the facilitator questions onto cardstock paper. Print in landscape view and divide the paper in two columns so you can print two cards per page. 
 
@@ -262,7 +233,7 @@ Allow for at least 30% over maximum capacity for attendee RSVP’s as you will h
 
 ---
 
-#### WomenConnect Event Swag
+### WomenConnect Event Swag
 
 * Swag can be purchased through your company’s preferred vendor or another brand merchandise store
 * Some examples include [Women In Tech book](https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories-ebook/dp/B010ZZYJSI), stemless wine glasses, tea cup & saucer, company-branded leather bound notebooks
@@ -274,7 +245,7 @@ _Note: Don’t forget to think about packaging of the giveaway item! If the vend
 ---
 
 ### Timeline of Key Actions
-Insert #16
+![img](http://u.cubeupload.com/ratona14/timelineOfActions16.png)
 
 ---
 
@@ -287,8 +258,6 @@ The Event Program Manager should schedule three event prep meetings with the Eve
 WomenConnect Facilitator Training
 - Event Program Manager to train WomenConnect Facilitators, Hosts and Speakers on the event objective and agenda, role and responsibilities during the event, as well as shares table topic discussion points for review and feedback. In addition, attendee demographics are shared (i.e. professions, companies, level of seniority of attendees)
 - Event Program Manager provides attendee data to prepare facilitators on who is attending
-
----
 
 **Meeting II (2 weeks prior to event)**
 
@@ -318,8 +287,6 @@ WomenConnect Event volunteers
 **Step 1:**
 Send survey to all attendees post event (within 24 hours) using Google forms
 
----
-
 **Sample Questions:**
 - Question 1: On a scale of 1-10, how would you rate this event? (with 1 being - low and 10 being high)
 - Question 2: Would you attend another WomenConnect event in the future?
@@ -328,10 +295,6 @@ Send survey to all attendees post event (within 24 hours) using Google forms
 - Question 5: What was your favorite part of the event?
 - Question 6: Moving forward, what are you primarily looking to get out these events?
 - Question 7: If you were a WomenConnect Facilitator, did you find the pre read information helpful in preparing you for this event?
-
----
-
-### WomenConnect Event Survey (continued)
 
 **Step 2:** 
 
@@ -356,10 +319,6 @@ _In addition to sending the survey to attendees, you can also include a link to 
 **Name Tags**
 - [Volunteer/Facilitator Tags](https://linkedin.okta.com/login/login.htm?fromURI=%2Fapp%2Fgoogle%2Fk4ntp8RIGKMVTJZJSZFH%2Fsso%2Fsaml%3FSAMLRequest%3DfVJNT%252BMwEL0j7X%252BwfM9XV8siqwkqILSVWIjadA%252FcXGeSmjrj4HFa%252BPe4KQj2QI9%252Bfn4f45levnSG7cCRtpjzLE45A1S21tjmfFXdRhf8svhxNiXZmV7MBr%252FBBTwPQJ6Fl0hivMj54FBYSZoEyg5IeCWWs793YhKnonfWW2UNZ%252FObnFsE3KgOlUK57vsnhK012DZbs2mejFq3PdTrtuk4%252B%252FcRa3KINScaYI7kJfoApdnvKMui7GeV%252FhLpRKTnj5yV705XGo8NTsVaH0kk%252FlRVGZUPy2oU2Oka3H1g57y1tjUQK9sd7EtJpHcBbqQh4GxGBM6HgNcWaejALcHttILV4i7nG%252B97Ekmy3%252B%252FjT5lEJkbjFoLv8aiIF%252BNsxVjPfRnq6fDyw5wX38pPky%252FKxfsXHprNb0prtHplM2Ps%252FtqB9KGWd0NodWtdJ%252F335lmcjYiuo2akigGpB6UbDTVnSXF0%252FX9Xwga9AQ%253D%253D%26RelayState%3Dhttps%253A%252F%252Fwww.google.com%252Fa%252Flinkedin.com%252FServiceLogin%253Fservice%253Dwise%2526passive%253Dtrue%2526continue%253Dhttps%25253A%25252F%25252Fdrive.google.com%25252Fa%25252Flinkedin.com%25252Ffile%25252Fd%25252F0B91oBU4Smq8mUGcwbVY0TVhENUk%25252Fview%25253Fusp%25253Dsharing%2526followup%253Dhttps%25253A%25252F%25252Fdrive.google.com%25252Fa%25252Flinkedin.com%25252Ffile%25252Fd%25252F0B91oBU4Smq8mUGcwbVY0TVhENUk%25252Fview%25253Fusp%25253Dsharing)
 - [Guest Tags](https://linkedin.okta.com/login/login.htm?fromURI=%2Fapp%2Fgoogle%2Fk4ntp8RIGKMVTJZJSZFH%2Fsso%2Fsaml%3FSAMLRequest%3DfVJbT8IwFH438T80fd8NYzQNG0GIkcTLAtMH30p3NopdO3s60H9vGRjxAR779et3OT3D0VejyAYsSqNTmoQxJaCFKaWuU%252Fpa3Ae3dJRdXgyRN6pl486t9Bw%252BO0BH%252FEuNrL9IaWc1MxwlMs0bQOYEW4yfHtkgjFlrjTPCKEpm05QqtV6VCrQ29boGKJfQfohGlnwJNazKqqkrJVUtKHn7jTXYxZohdjDT6Lh2HoqTmyBJguSqiK9ZPGCDm3dK8oPTndT7BudiLfckZA9FkQf5y6LoBTayBPvs2SmtjakVhMI0O%252FucI8qNhyuuECgZI4J1PuDEaOwasAuwGyngdf6Y0pVzLbIo2m634Z9MxCMl9Qd43%252F1RIM362bK%252Bnj0a6vnw%252FNecZiflh9GRcnb4wl2z2TQ3SopvMlbKbCcWuPO1nO18q3tjG%252B5Omydh0iOyDKqeyjqNLQhZSSgpibK96%252F9d8Rv0Aw%253D%253D%26RelayState%3Dhttps%253A%252F%252Fwww.google.com%252Fa%252Flinkedin.com%252FServiceLogin%253Fservice%253Dwise%2526passive%253Dtrue%2526continue%253Dhttps%25253A%25252F%25252Fdrive.google.com%25252Fa%25252Flinkedin.com%25252Ffile%25252Fd%25252F0B91oBU4Smq8mX1d3blhkMlZJTTg%25252Fview%25253Fusp%25253Dsharing%2526followup%253Dhttps%25253A%25252F%25252Fdrive.google.com%25252Fa%25252Flinkedin.com%25252Ffile%25252Fd%25252F0B91oBU4Smq8mX1d3blhkMlZJTTg%25252Fview%25253Fusp%25253Dsharing)
-
----
-
-### Templates
 
 **Project Planning**
 [Project Plan Template](https://docs.google.com/spreadsheets/u/0/d/14uO6l4DcOaoiZM5p7cedjMr7cDwq0jOKaSmQN3_BpzU/edit?pli=1#gid=0)
