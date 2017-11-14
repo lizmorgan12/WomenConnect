@@ -1,5 +1,5 @@
 ![img](http://i.cubeupload.com/lnAqAp.png)
-## WomenConnect External Event Playbook
+## WomenConnect Event Playbook
  			
 Liz Morgan
 
