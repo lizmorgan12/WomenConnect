@@ -56,7 +56,10 @@ Length of event (including check in of attendees): 3 hours
 - Table Discussion Sharing and Wrap Up - 30 minutes
 - Networking (until close) - 30 minutes
 
-#### Total Headcount goal: 120 external attendees, 25 internal employees (i.e. 20 WomenConnect facilitators, 5 event volunteers)
+#### Total Headcount goal: 
+
+120 external attendees
+25 internal employees (i.e. 20 WomenConnect facilitators, 5 event volunteers)
 
 ---
 ### Event Agenda (long version)
