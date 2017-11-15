@@ -99,7 +99,7 @@ WomenConnect Facilitators will sit two to a table with 8-10 event attendees and 
 
 ### Key best practices for successful facilitation:
 
-- Kick off the table discussion with assurance that this is a safe place for discussion
+- Kick off the table discussion with assurance that this is a safe place for open, honest discussions
 - Have each person introduce themselves, their position/team & length of time at their current employer
 - Ensure everyone at your table is comfortable and included in contributing to the conversation
 - Validate the feedback and opinions shared by attendees
@@ -152,7 +152,8 @@ Below is a sample of questions that can be used as facilitator discussion topics
 ---
 
 ### Talent Acquisition	
-Your recruiting partners play a significant role in identifying potential attendees for your event and nurturing this pool of talent with the goal of creating a long-term pipeline for hiring. In addition, recruiting will also play a critical role in answering questions related to job opportunities and cultivating a community for future events and hiring.
+Your recruiting partners play a significant role in identifying potential attendees for your event. Recruiters will also own the responsibility of nurturing this pool of talent with the goal of creating community and a long-term pipeline for hiring. 
+
 #### Research
 Recruiting responsibilities are to identify potential attendees for your event program via the following sources:
 - LinkedIn
@@ -160,9 +161,10 @@ Recruiting responsibilities are to identify potential attendees for your event p
 - Internet research
 
 #### Recruiting
-Although the event is not recruiting focused, by default you will have attendees interested in finding out about job opportunities from the company sponsoring the event. Your recruiting partner(s) should attend the event as a volunteer. The event host should recognize the recruiters presence by highlighting this person as a resource to answer questions about job opportunities.
+Although the event is not recruiting focused, by default you will have attendees interested in finding out about job opportunities. Your recruiting partner(s) should attend the event as a volunteer. The event host should recognize the recruiters presence by highlighting this person as a resource to answer questions about job opportunities.
+
 #### Community
-Post event, recruiting should build community and a platform for ongoing communication about future events and dialogue between attendees that made professional connections during the event. In addition, it’s recommended recruiting create a confidential community or way to house the list of identified prospects for upcoming events. 
+Post event, recruiting should build community and a platform for ongoing communication about future events and to foster continued dialogue between event attendees. In addition, it’s recommended recruiting create a confidential community or way to house the list of identified prospects for upcoming events. 
 
 ---
 
@@ -207,7 +209,7 @@ WomenConnect Host, Event Program Manager and Project Manager write invitation ve
 - Key selling points on why someone should attend
 - Special instructions (i.e, parking, directions) 
 
-After your invitation is created, please request the list of potential attendees and contact information from your TA partner. 
+After your invitation is created, please request the list of potential attendees and contact information from your recruiting partner. 
 
 Invitations should be sent out 4 weeks prior to the event. 
 
@@ -290,7 +292,7 @@ WomenConnect Event volunteers
 ### WomenConnect Event Survey
 
 **Step 1:**
-Send survey to all attendees post event (within 24 hours) using Google forms
+Send survey to all attendees post event (within 24 hours) using Google forms or the survey form of your choice
 
 **Sample Questions:**
 - Question 1: On a scale of 1-10, how would you rate this event? (with 1 being - low and 10 being high)
