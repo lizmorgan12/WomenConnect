@@ -45,6 +45,7 @@ Survey								**19**
 
 ### Goal 
 The goal of the event program is for women who work in technology to come together to build meaningful relationships and exchange professional best practices
+
 Length of event (including check in of attendees): 3 hours
 ### Event agenda (short version)
 - Check-In/Networking - 30 minutes
