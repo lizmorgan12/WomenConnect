@@ -1,12 +1,7 @@
 ![img](http://i.cubeupload.com/lnAqAp.png)
 ## WomenConnect Event Playbook
- 			
-Liz Morgan
 
-Alyssa Leong
-
-Andrea Carlos
-
+Written by Liz Morgan, Alyssa Leong and Andrea Carlos
 
 ---
 
