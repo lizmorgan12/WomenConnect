@@ -329,7 +329,8 @@ _In addition to sending the survey to attendees, you can also include a link to 
 
 
 **Project Planning**
+
 [Project Plan Template](https://docs.google.com/spreadsheets/u/0/d/14uO6l4DcOaoiZM5p7cedjMr7cDwq0jOKaSmQN3_BpzU/edit?pli=1#gid=0)
 
-[Facilitator - Pre-Read Material from Program Manager](https://linkedin.okta.com/login/login.htm?fromURI=%2Fapp%2Fgoogle%2Fk4ntp8RIGKMVTJZJSZFH%2Fsso%2Fsaml%3FSAMLRequest%3DfVLLTgIxFN2b%252BA9N9%252FPC%252BEjDjEGNkQR1AoMLd6VzByp9YG8H9O8tA0RdwLKnp%252Bdxe%252Fu3X1qRNTiU1uQ0i1NKwAhbSzPP6bR6jG7obXF%252B1keu1YoNWr8wY%252FhsAT0JLw2y7iKnrTPMcpTIDNeAzAs2GTyPWC9O2cpZb4VVlAwfcvrBxULNFCgLjZWLBmrJtZmZedN81FwvtRYguV1S8naI1dvGGiK2MDToufEBSrPrKMui7KJKL1l6xXq9d0rKvdOdNLsGp2LNdiRkT1VVRuXrpOoE1rIG9xLYOZ1bO1cQC6u39iVHlOsAN1whUDJABOdDwHtrsNXgJuDWUsB0PMrpwvsVsiTZbDbxr0zCEyXNMlQ2u6NAWnSzZV0992eop8Pzgzktjsr3kz%252FKxf4Lt82GD6VVUnyTgVJ2c%252B%252BA%252B1DLuza0erROc3%252FcPIuzDpF11HRU1hpcgZCNhJqSpNi5%252Ft%252BVsEE%252F%26RelayState%3Dhttps%253A%252F%252Fwww.google.com%252Fa%252Flinkedin.com%252FServiceLogin%253Fservice%253Dwise%2526passive%253Dtrue%2526continue%253Dhttps%25253A%25252F%25252Fdocs.google.com%25252Fa%25252Flinkedin.com%25252Fdocument%25252Fd%25252F1fgXpMDT36X1urjDPNNQVFoGEf23PRBdxoh53mjCFD20%25252Fedit%25253Fusp%25253Dsharing%2526followup%253Dhttps%25253A%25252F%25252Fdocs.google.com%25252Fa%25252Flinkedin.com%25252Fdocument%25252Fd%25252F1fgXpMDT36X1urjDPNNQVFoGEf23PRBdxoh53mjCFD20%25252Fedit%25253Fusp%25253Dsharing%2526ltmpl%253Ddocs)
+
 
