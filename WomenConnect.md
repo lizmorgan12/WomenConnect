@@ -325,7 +325,9 @@ _In addition to sending the survey to attendees, you can also include a link to 
 
 **Project Planning**
 
-[Project Plan Template](https://docs.google.com/spreadsheets/u/0/d/14uO6l4DcOaoiZM5p7cedjMr7cDwq0jOKaSmQN3_BpzU/edit?pli=1#gid=0)
+[Project Plan Template]
+https://docs.google.com/a/linkedin.com/spreadsheets/d/e/2PACX-1vSTmEOe3Jwg7oRF2JlvNUzNJmaPo0joiATjoLcFI4U7gQ_b0wHYhm2WPBCWXy6HI1nK2PdBqOKmmfB5/pubhtml
+
 
 
 
