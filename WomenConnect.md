@@ -168,7 +168,7 @@ Post event, recruiting should build community and a platform for ongoing communi
 
 ---
 
-### Sample Event Budget*	
+### Sample Event Budget
 
 | Item  |  Expense         | 
 | ------------- |:--------:|
