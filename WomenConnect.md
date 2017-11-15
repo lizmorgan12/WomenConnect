@@ -12,33 +12,33 @@ Andrea Carlos
 
 
 ### Table of Contents
-Goal and Agenda	**3**
+Goal and Agenda	
 
-Event Agenda (long version) **4**
+Event Agenda (long version) 
 
-WomenConnect Roles & Responsibilities			 **5**
+WomenConnect Roles & Responsibilities			 
 
-WomenConnect Facilitator's Responsibilities		 **6**
+WomenConnect Facilitator's Responsibilities		 
 
-WomenConnect Selection 					 **7**
+WomenConnect Selection 					 
 
-WomenConnect Discussion Topics	       **8**
+WomenConnect Discussion Topics	       
 
-Talent Acquisition   **9**
+Talent Acquisition   
 
-Invitations							**12**
+Invitations							
 
-Planning Logistics		    **13 - 14**
+Planning Logistics		    
 
-Swag 								**15**
+Swag 								
 
-Timeline of Key Actions					**16**
+Timeline of Key Actions					
 
-Event Prep & Training Meetings				**17**
+Event Prep & Training Meetings				
 
-Day of Event Schedule					**18**
+Day of Event Schedule					
 
-Survey								**19**
+Survey								
 
 
 ---
@@ -279,13 +279,21 @@ WomenConnect Event volunteers
 
 ### Day of Event Schedule
 **Event schedule (example for event starting at 6pm)**
+
 **5:00pm** - Event PM and project managers arrive at venue. The goal of early arrival is to communication with venue point of contact, hang event signs, and ensure layout of tables and event is correct
+
 **5:15pm** - Event host, speakers and volunteers arrive
+
 **5:30pm** - Event PMs requests an “event huddle” to review event agenda, roles and responsibilities and disperse name tags
+
 **5:45pm** - Event volunteers are seated at check-in table with laptops and check-in template prepared for attendee arrival 
+
 **6:00pm** -  Attendees begin to arrive
+
 **6:15pm** - Event starts (it’s recommended to have your event check-in volunteers remain seated at the check-in table for late arrivals) 
+
 **8:30pm** - Event wrap up
+
 **9:00pm** -  Event debrief with Event Program Manager, Project Managers/s, hosts, facilitators and volunteers
 
 ---
@@ -305,7 +313,7 @@ Send survey to all attendees post event (within 24 hours) using Google forms or 
 
 **Step 2:** 
 
-Share results with key stakeholders. Discuss key wins and opportunities to improve event format moving forward
+Share results with key stakeholders via email or in person meeting. Discuss key wins and opportunities to improve event format moving forward
 
 
 _In addition to sending the survey to attendees, you can also include a link to job opportunities as well as photos from the event_
