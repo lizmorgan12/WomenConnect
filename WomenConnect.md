@@ -156,10 +156,10 @@ Recruiting responsibilities are to identify potential attendees for your event p
 - Internet research
 
 #### Recruiting
-Although the event is not recruiting focused, by default you will have attendees interested in finding out about job opportunities. Your recruiting partner(s) should attend the event as a volunteer. The event host should recognize the recruiters presence by highlighting this person as a resource to answer questions about job opportunities.
+Although the event is not recruiting focused, by default you will have attendees interested in finding out about job opportunities. It's recommended that your recruiting partner(s) attend the event as a volunteer. The event host should recognize the recruiters presence by highlighting this person as a resource to answer questions about job opportunities.
 
 #### Community
-Post event, recruiting should build community and a platform for ongoing communication about future events and to foster continued dialogue between event attendees. In addition, it’s recommended recruiting create a confidential community or way to house the list of identified prospects for upcoming events. 
+Post event, your recruiting team has the opportunity to create a community to foster continued dialogue between event attendees and for ongoing communication about future events. In addition, it’s recommended recruiting create a LinkedIn project folder or another way to house the list of identified prospects for upcoming events. 
 
 ---
 
