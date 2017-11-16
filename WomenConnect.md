@@ -57,16 +57,16 @@ Length of event (including check in of attendees): 3 hours
 ### Event Agenda (long version)
 #### Kick off speech - 5 minutes
 
-- The kick off speech is usually delivered by the event host (typically an engineering WIT Leader) The kick off speech includes a welcome and overview of the event agenda. In addition, the speaker provides an overview of your company's commitment to diversity and inclusion/WIT initiatives and the impact they have at your company
+- The kick off speech is usually delivered by the event host. The kick off speech includes a welcome and overview of the event agenda. In addition, the speaker provides an overview of your company's commitment to Women in Technology initiatives and the impact they have at your company
 
 #### Keynote Speaker - 15 minutes
 
-- Keynote Speaker is a mid to senior level engineering leader. This person is a representative of your company's commitment to hiring and developing a diverse and inclusive work culture
+- Keynote Speaker is a mid to senior level technology leader. This person is a representative of your company's commitment to hiring and developing a diverse and inclusive work culture
 - Keynotes Speakers often talk about their personal stories related to inclusion, career transformation, overcoming personal or professional obstacles, or providing overviews of a product or initiative that was built by a diverse team.
 
 #### Dinner and Table Discussions - 1 hour
 
-- WomenConnect Speakers and Facilitators will sit 2 to a table, with 8-10 external attendees. Women Connect Facilitators are responsible for driving and facilitating  table discussions, which will allow them to hear first-hand some of the successes and obstacles attendees  encounter in the workplace. This is a critical role in the event’s success. All facilitators will receive questions and prompts to help keep the conversation flowing and keep all attendees included and engaged in dialogue. One of the facilitators should take notes throughout the discussion in preparation to share best practices or key points with the broader group at the end of the evening.
+- WomenConnect Speakers and Facilitators will sit 2 to a table, with 8-10 external attendees. Women Connect Facilitators are responsible for driving and facilitating  table discussions, which will allow them to hear first-hand some of the successes and obstacles event attendees  encounter in the workplace. This is a critical role in the event’s success. All facilitators will receive questions and prompts to help keep the conversation flowing and keep all attendees included and engaged in dialogue. One of the facilitators should take notes throughout the discussion in preparation to share best practices or key points with the broader group at the end of the evening.
 
 #### Table Discussion Sharing - 30 minutes
 
@@ -176,7 +176,7 @@ Post event, your recruiting team has the opportunity to create a community to fo
 
 **Event Planning:** To have sufficient time in planning an amazing event, it is recommended you start 90 - 120 days before the event date
 
-**Venue:** The Event Project Manager will need to identify a venue or space at your company campus that can fit approx. 120 people comfortably at round tables (ideally, there’s also projection capability). Round tables are highly encouraged for the table discussions portion of the event. There should also be plenty of space for standing networking time and an entrance where you can setup a check-in area. 
+**Venue:** The Event Project Manager will need to identify a venue that can fit approx. 120 people comfortably at round tables (ideally, there’s also visual projection capability). Round tables are highly encouraged for the table discussions portion of the event. There should also be plenty of space for standing networking time and an entrance where you can setup a check-in area. 
 
 ---
 
