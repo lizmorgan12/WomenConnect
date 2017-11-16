@@ -1,10 +1,6 @@
 
 ## WomenConnect Event Playbook
 
-Written by Liz Morgan, Alyssa Leong and Andrea Carlos
-
----
-
 
 ### Table of Contents
 Goal and Agenda	
@@ -238,7 +234,7 @@ Allow for at least 30% over maximum capacity for attendee RSVP’s as you will h
 ### WomenConnect Event Swag
 
 * Swag can be purchased through your company’s preferred vendor or another brand merchandise store
-* Some examples include [Women In Tech book](https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories-ebook/dp/B010ZZYJSI), stemless wine glasses, tea cup & saucer, company-branded leather bound notebooks
+* Some examples include a Women in Tech book, stemless wine glasses, tea cup & saucer, company-branded leather bound notebooks
 * On the day of the event, swag can be provided to attendees upon arrival, departure or at roundtables.
 
 
@@ -295,7 +291,7 @@ WomenConnect Event volunteers
 ### WomenConnect Event Survey
 
 **Step 1:**
-Send survey to all attendees post event (within 24 hours) using Google forms or the survey form of your choice
+Send survey to all attendees post event (within 24 hours) usingthe survey form of your choice
 
 **Sample Questions:**
 - Question 1: On a scale of 1-10, how would you rate this event? (with 1 being - low and 10 being high)
@@ -312,16 +308,5 @@ Share results with key stakeholders via email or in person meeting. Discuss key 
 
 
 _In addition to sending the survey to attendees, you can also include a link to job opportunities as well as photos from the event_
-
----
-
-### Templates
-
-**Sample invitations**
-- https://splashthat.com/sites/view/liwomenconnectny.splashthat.com
-- https://womenconnectwinter2017.splashthat.com/?gz=none
-
-
-
 
 
